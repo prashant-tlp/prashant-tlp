@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
 <h1 align="center">Web Developer</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-tlp&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-tlp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant-tlp&theme=monokai" alt="prashant-tlp" /></a> </p>
 
