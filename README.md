@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **MySql & Node.js**
 - 💬 Ask me about **React & Node**
 - 📫 How to reach me **prashantsinghrajput56@gmail.com**
-- 👨‍💻 All of my projects are available at **https://pra-shant/vercel.app**
+- 👨‍💻 All of my projects are available at **[https://pra-shant/vercel.app](https://pra-shant.vercel.app/)**
 - ⚡ Fun fact **Mechanical Eng....**
 
 <div> <a href="https://github.com/prashant-tlp" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
